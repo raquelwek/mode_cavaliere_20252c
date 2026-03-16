@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/image_9b5ef9.jpg" alt="Perrito Vaquero" width="250">
+  <img src="https://i.pinimg.com/736x/82/41/96/8241960ac8ac0e233399214026e7f475.jpg" alt="Perrito Vaquero" width="250">
   <br>
   <b><i>¡Mucha suerte con la cursada!</i></b>
 </p>
